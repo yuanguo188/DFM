@@ -1,6 +1,6 @@
 # 捷创DFM（JCDFM）
 
-[English](README.md) · [产品网站](https://dfm.ailgb.com) · [中文留言](https://gitee.com/yuanguo188/dfm/issues) · [海外留言](https://github.com/yuanguo188/DFM/issues)
+[English](README.md) · [产品网站](https://dfm.jc-pcba.com) · [中文留言](https://gitee.com/yuanguo188/dfm/issues) · [海外留言](https://github.com/yuanguo188/DFM/issues) · [在线版](https://webdfm.jc-pcba.com)
 
 捷创DFM是一款用于 PCB／SMT 生产资料检查的桌面软件，将图层查看、可制造性检查、测量、文件对比和工程资料导出集中在同一工作界面。
 
@@ -18,7 +18,7 @@
 
 ## 开始使用
 
-1. 到[产品网站](https://dfm.ailgb.com)查看产品及下载信息。
+1. 到[产品网站](https://dfm.jc-pcba.com)查看产品及下载信息。
 2. 在软件中打开设计文件、文件夹或压缩包。
 3. 检查图层对应关系与板框，再进行分析。
 4. 从“帮助”菜单查看使用说明、项目介绍和问题反馈。

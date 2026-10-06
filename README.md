@@ -1,6 +1,6 @@
 # JCDFM · PCB & SMT Design Review
 
-[简体中文](README.zh-CN.md) · [Website](https://dfm.ailgb.com) · [Report an issue](https://github.com/yuanguo188/DFM/issues)
+[简体中文](README.zh-CN.md) · [Website](https://dfm.jc-pcba.com) · [Online edition](https://webdfm.jc-pcba.com) · [Report an issue](https://github.com/yuanguo188/DFM/issues)
 
 JCDFM is a desktop application for reviewing PCB manufacturing data and preparing PCB/SMT production information. It brings layer inspection, manufacturability checks, measurement, file comparison and engineering exports into one workspace.
 
@@ -18,7 +18,7 @@ Analysis results are engineering aids. Confirm manufacturing decisions against t
 
 ## Getting started
 
-1. Visit the [product website](https://dfm.ailgb.com) for product and download information.
+1. Visit the [product website](https://dfm.jc-pcba.com) for product and download information.
 2. Open your design files, folder or archive in JCDFM.
 3. Check layer assignments and board outline before running analysis.
 4. Use **Help** for usage instructions, feedback and product information.
